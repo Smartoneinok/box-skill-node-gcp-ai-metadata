@@ -1,0 +1,19 @@
+{
+  "name": "box-skill-node-gcp-ai-metadata",
+  "version": "1.0.0",
+  "description": "This is a demo of a Box Skill using Google Cloud Platform to host the serverless function and Box AIs metadata extraction service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smartoneinok/box-skill-node-gcp-ai-metadata.git"
+  },
+  "author": "smartoneinok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Smartoneinok/box-skill-node-gcp-ai-metadata/issues"
+  },
+  "homepage": "https://github.com/Smartoneinok/box-skill-node-gcp-ai-metadata#readme"
+}
